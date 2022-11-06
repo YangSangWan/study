@@ -1,0 +1,16 @@
+- github 원격저장소 올리기
+ 1. git remote add origin(이름) https주소(레포지토리)
+  ㄴ 확인 - git remote -v 
+  ㄴ git ls-remote
+  ㄴ 잘못했을경우 연결끊기 - git remote remove origin(이름)
+ 2. git push origin main
+ 
+- 브랜치 
+ 1. 브랜치 이동 및 생성 
+  ㄴ git checkout (name)
+  ㄴ git branch (name)
+ 2. 브랜치 삭제
+  ㄴ git branch -D master
+  
+  
+ 
