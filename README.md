@@ -1,2 +1,3 @@
 # study
 공부한거 안잊어버리게 올림
+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
