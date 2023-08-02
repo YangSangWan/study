@@ -1,0 +1,5 @@
+- docker-compose up -d 으로 yml파일 읽어 설치
+- postgresql 커맨드 접속 : docker exec -it DOCKER_NAME /bin/bash
+ ex) docker exec -it sr-postgres /bin/bash
+- psql 접속 : psql -U 사용자명=
+
